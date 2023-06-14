@@ -1,0 +1,116 @@
+So in the context of start-up ideas, they're not all crazy people for a number of reasons.
+And so it's hard to tell exactly what's going to work, right? If we have sort of ten, you
+know, a hundred highly validated ideas, the lottery or the randomness of real life and
+contact with the marketplace and whatever, we'll always have these surprising outcomes
+in terms of what might work or what not. But at the start, I think there's some like really
+interesting ones is you can put on, you know, an idea just on paper that gives you a little
+bit higher probability chances succeeding later. So one of the things in my mind is
+asking yourself, what's the problem I'm trying to solve? I mean, I think one of the big issues
+is, you know, when you start ideating, it's really fun to jump to solutions, sort of like
+ideas or technical technology ideas or anything of that type of technology you want to take
+to market. You know, hey, I want to have an AI company, something like that. As opposed
+to saying, you know what, like, there was this really specific problem that the burdens
+of information security compliance on like small enterprises is huge and growing because
+it's more and more important on topic and the quality of the tools isn't good enough,
+but something like that, right? It's a problem space we can explore. And so, you know,
+defining this problem is so important because it's very unlikely that your initial hypothesis
+on a solution is useful or something that really is going to mature into a great product
+or a business idea. And whereas, if you align around the problem space, it's very possible
+for you to go out, understand that problem very deeply and sort of piece together, you
+know, I hate to say have the market, you know, tell you what they need, but tell you where
+the pain is, right, and use your magic to think about how you might be able to solve
+it, right? So I think number one is, you know, the best startup ideas are problem-focused,
+not solution-focused, right? Number two, you want to have an idea that is really worth
+putting a lot of time in. I think there's a handful of things that you really want to
+put a pretty strong checkbox around upfront, right, with very limited information in advance.
+And so one of those is, hey, is this, you know, a problem that is valuable to a lot of people,
+right? And I think there's two parts to that. One is, hey, is this like, you know, a problem
+that people want solved, right? You know, it's the difference between things. There's all kinds
+of stated preferences we have as consumers that we, you know, want healthier food or we're trying
+to eat healthy, right, but we don't actually. So it kind of, there's a trap there where we feel
+like it's a real startup problem and it isn't. I think the second thing is, if it is a real
+problem, there's really enough people that care about it that it could ever be a real business.
+And so this is something we kind of lie about to ourselves all the time as entrepreneurs or people
+that are prosecuting different ideas. It's like, oh yeah, everybody would want this or, you know,
+everybody would do this. And then the reality is, the answer is the market's probably quite
+a bit smaller than you think, right? You start being very intellectually honest about, you know,
+who this really appeals to or what a solution could, you know, who they could appeal to or
+who you could distribute to or whatever it might be, right? So in lots of cases that,
+you know, you're still bidding early, right? The market for this might not exist yet, but
+you'd have to very rationally believe that when it comes to exist that it may be worth
+the time and effort invested into this business. I think the second really important filter is,
+so you have a problem, is it remotely possible to solve it? And so you might find yourself saying,
+you know what, like the cost of energy is a problem. If we could actually create energy
+abundance, it would do all kinds of things for different industries and the competitiveness of
+Canada or North America or whatever in the world. And that'd be great, but like to what extent can
+we, you know, are we positioned as like a founding team to actually, you know, solve that? And I mean
+that specifically in like, you know, what about if it's like, well, cold fusion makes plenty of
+sense or some, you know, patent on cold fusion at the university that I could license or something,
+but like it's very difficult, right? The more tactical risk you take on, you know, generally
+you can think of a business that's a product of either technical risk or go to market risk. And
+in this case, you know, with that kind of business, you know, of course there would
+be a market there if you get some kind of, you know, economic scale cold fusion going.
+But that is, you know, you're trading the cost of that for a tremendous amount of like
+product and technology risks, like your ability to actually see that.
+And so the third thing is slightly different, but might feel like a related idea.
+But you should, as a company or as a potential founder or founding team, be able to
+have some kind of an answer to why are we, why would we be the people to prosecute this idea,
+right? There are all kinds of things that are good ideas and would be good ideas and could surely
+make money at scale, but either in the universe of, you know, entrepreneurs that might do it,
+that have deep industry connections or experience or some kind of unique edge or insight into this
+marketplace are going to be much more likely to succeed than you. But it also may just be
+that structurally, you know, there's certain ideas that are better prosecuted by, you know,
+a larger organization, right? Or that there's some kind of core resource that's going to be
+very hard for you to replicate to take this idea. And it's kind of an easy check to do, right?
+Because it's sort of more broadly the idea of founder market fit and that one of the
+absolute most important indicators of success is an alignment, not only because you as a founder
+need to have edge, but you would also need to have some emotional equity in the ideas,
+but you could prosecute it even when things are inevitably
+become a pretty miserable experience as part of doing so.
+You might think of this as sort of being related to the customer thing, but I think one of the
+other really good ones is being super honest with yourself about
+how you would go to market with this specific idea is really important, right? And there are
+all kinds of things that are a good idea. You could probably get the product market
+fit in the sense of making something that people like and ultimately die on the vine of,
+you know, fighting for awareness and distribution and customer acquisition to the point of maybe
+having negative economics on everything sold or being unprofitable or just having trouble with
+scale beyond a certain size. And so this is universally something that affects every business.
+And we see it all the time, right? Ultimately, distribution is way more important than that.
+Product quality in a lot of markets is something like Slack, which is
+maybe a kind of spread, because Teams got dominated by Microsoft Teams because of the
+unique advantages Microsoft had on distribution. And so that's something to consider. Open AI is
+the same thing. They've given away a material amount of the equity upside in their business
+to have this deep partnership with Microsoft solely to take this idea of distribution
+risk off of the table for them. They said, hey, you know, Microsoft's the most important,
+probably one of the best partners we could have in terms of their ability to, you know, sell this
+technology through with, you know, in a high trust way on established vendor relationships with,
+you know, every corporate and IT department and no market business in the world. In addition to that,
+they have this very unique capability on the supply side. This partner takes some risk and
+costs to the cost structure there. And so they've just tied themselves up. You know, in some sense,
+that's pretty much, you know, operate as a division. Microsoft would be impossible for
+them to fully merge, due to the regulatory regime, but it's, you know, a very interesting sort of
+outcome. And so I think one of the other big ideas in choosing an idea or like what makes a good
+startup idea is testability and sort of the signal richness of the type of business idea
+are super important. So, you know, certain businesses, you know, think of an extreme,
+something like, you know, developing a new therapeutic or pharmaceutical type product,
+you know, are so slow, right? You have this, you know, multi-year kind of R&D effort. You kind of
+have this multi-year regulatory effort and you have this, then you have your kind of, you know,
+effort of commercializing, going to market, earning revenue. And so the business is very kind
+of low amount of signal over time, right? It's kind of hard to tell if you're succeeding or not.
+Whereas if you go down to the kind of small studio business, you can, you know, there might be
+something, even if you just think of someone that maybe like buys widgets on, you know,
+Alibaba.com and resells them as a brand new product on Amazon, it's so easy and quick to
+get to market in the first place that you can gamify or experiment with this product
+and really learn a lot, right? You learn what people like, you really can establish a sense
+of your unit economics so much earlier. And so I don't mean this in the sense of, you know,
+we want to get to these like micro ideas that aren't going to be really big businesses,
+but different businesses that might be really big and really good ideas are harder or easier
+to recombinate into the series of experiments that you need to do to gain traction and to validate
+them further, right? And so if you're at the idea stage and you're just on the whiteboard
+doing it, you know, selecting for businesses where you can kind of quickly, sincerely
+envision how you might prosecute a series of simple experiments to get high, you know,
+high signal very quickly about the demand for this product to get a really, you know,
+continuous and strong feedback with about how to shape the product to the high proposition
+and better meet the payments as clients. That idea at this stage is in some sense more valuable
+and better than one that, you know, might require your work in product development before you really
+get meaningful product and feedback from it. And so I think that's an important filter.

@@ -1,0 +1,464 @@
+1
+00:00:00,000 --> 00:00:11,320
+So in the context of start-up ideas, they're not all crazy people for a number of reasons.
+
+2
+00:00:11,320 --> 00:00:16,200
+And so it's hard to tell exactly what's going to work, right? If we have sort of ten, you
+
+3
+00:00:16,200 --> 00:00:23,680
+know, a hundred highly validated ideas, the lottery or the randomness of real life and
+
+4
+00:00:23,680 --> 00:00:28,440
+contact with the marketplace and whatever, we'll always have these surprising outcomes
+
+5
+00:00:28,440 --> 00:00:34,920
+in terms of what might work or what not. But at the start, I think there's some like really
+
+6
+00:00:34,920 --> 00:00:42,120
+interesting ones is you can put on, you know, an idea just on paper that gives you a little
+
+7
+00:00:42,120 --> 00:00:51,560
+bit higher probability chances succeeding later. So one of the things in my mind is
+
+8
+00:00:51,560 --> 00:00:59,600
+asking yourself, what's the problem I'm trying to solve? I mean, I think one of the big issues
+
+9
+00:00:59,600 --> 00:01:06,760
+is, you know, when you start ideating, it's really fun to jump to solutions, sort of like
+
+10
+00:01:06,760 --> 00:01:10,960
+ideas or technical technology ideas or anything of that type of technology you want to take
+
+11
+00:01:10,960 --> 00:01:15,280
+to market. You know, hey, I want to have an AI company, something like that. As opposed
+
+12
+00:01:15,280 --> 00:01:20,480
+to saying, you know what, like, there was this really specific problem that the burdens
+
+13
+00:01:20,520 --> 00:01:27,200
+of information security compliance on like small enterprises is huge and growing because
+
+14
+00:01:27,200 --> 00:01:30,040
+it's more and more important on topic and the quality of the tools isn't good enough,
+
+15
+00:01:30,040 --> 00:01:35,640
+but something like that, right? It's a problem space we can explore. And so, you know,
+
+16
+00:01:35,640 --> 00:01:43,200
+defining this problem is so important because it's very unlikely that your initial hypothesis
+
+17
+00:01:43,200 --> 00:01:50,120
+on a solution is useful or something that really is going to mature into a great product
+
+18
+00:01:50,640 --> 00:01:58,800
+or a business idea. And whereas, if you align around the problem space, it's very possible
+
+19
+00:01:58,800 --> 00:02:08,920
+for you to go out, understand that problem very deeply and sort of piece together, you
+
+20
+00:02:08,920 --> 00:02:13,480
+know, I hate to say have the market, you know, tell you what they need, but tell you where
+
+21
+00:02:13,480 --> 00:02:17,480
+the pain is, right, and use your magic to think about how you might be able to solve
+
+22
+00:02:17,480 --> 00:02:23,240
+it, right? So I think number one is, you know, the best startup ideas are problem-focused,
+
+23
+00:02:23,240 --> 00:02:35,400
+not solution-focused, right? Number two, you want to have an idea that is really worth
+
+24
+00:02:35,400 --> 00:02:41,080
+putting a lot of time in. I think there's a handful of things that you really want to
+
+25
+00:02:41,080 --> 00:02:50,600
+put a pretty strong checkbox around upfront, right, with very limited information in advance.
+
+26
+00:02:50,600 --> 00:02:57,640
+And so one of those is, hey, is this, you know, a problem that is valuable to a lot of people,
+
+27
+00:02:57,640 --> 00:03:02,040
+right? And I think there's two parts to that. One is, hey, is this like, you know, a problem
+
+28
+00:03:02,040 --> 00:03:07,320
+that people want solved, right? You know, it's the difference between things. There's all kinds
+
+29
+00:03:07,320 --> 00:03:11,960
+of stated preferences we have as consumers that we, you know, want healthier food or we're trying
+
+30
+00:03:11,960 --> 00:03:17,800
+to eat healthy, right, but we don't actually. So it kind of, there's a trap there where we feel
+
+31
+00:03:17,800 --> 00:03:24,200
+like it's a real startup problem and it isn't. I think the second thing is, if it is a real
+
+32
+00:03:24,200 --> 00:03:29,320
+problem, there's really enough people that care about it that it could ever be a real business.
+
+33
+00:03:29,320 --> 00:03:34,920
+And so this is something we kind of lie about to ourselves all the time as entrepreneurs or people
+
+34
+00:03:34,920 --> 00:03:40,280
+that are prosecuting different ideas. It's like, oh yeah, everybody would want this or, you know,
+
+35
+00:03:40,280 --> 00:03:47,960
+everybody would do this. And then the reality is, the answer is the market's probably quite
+
+36
+00:03:47,960 --> 00:03:51,880
+a bit smaller than you think, right? You start being very intellectually honest about, you know,
+
+37
+00:03:51,880 --> 00:03:58,120
+who this really appeals to or what a solution could, you know, who they could appeal to or
+
+38
+00:03:58,120 --> 00:04:02,920
+who you could distribute to or whatever it might be, right? So in lots of cases that,
+
+39
+00:04:02,920 --> 00:04:08,920
+you know, you're still bidding early, right? The market for this might not exist yet, but
+
+40
+00:04:09,720 --> 00:04:17,880
+you'd have to very rationally believe that when it comes to exist that it may be worth
+
+41
+00:04:17,880 --> 00:04:24,200
+the time and effort invested into this business. I think the second really important filter is,
+
+42
+00:04:25,800 --> 00:04:32,040
+so you have a problem, is it remotely possible to solve it? And so you might find yourself saying,
+
+43
+00:04:32,040 --> 00:04:38,840
+you know what, like the cost of energy is a problem. If we could actually create energy
+
+44
+00:04:38,840 --> 00:04:44,040
+abundance, it would do all kinds of things for different industries and the competitiveness of
+
+45
+00:04:44,040 --> 00:04:50,120
+Canada or North America or whatever in the world. And that'd be great, but like to what extent can
+
+46
+00:04:50,120 --> 00:04:54,920
+we, you know, are we positioned as like a founding team to actually, you know, solve that? And I mean
+
+47
+00:04:54,920 --> 00:04:58,520
+that specifically in like, you know, what about if it's like, well, cold fusion makes plenty of
+
+48
+00:04:58,520 --> 00:05:03,960
+sense or some, you know, patent on cold fusion at the university that I could license or something,
+
+49
+00:05:03,960 --> 00:05:09,720
+but like it's very difficult, right? The more tactical risk you take on, you know, generally
+
+50
+00:05:09,720 --> 00:05:13,480
+you can think of a business that's a product of either technical risk or go to market risk. And
+
+51
+00:05:13,480 --> 00:05:17,160
+in this case, you know, with that kind of business, you know, of course there would
+
+52
+00:05:17,160 --> 00:05:23,160
+be a market there if you get some kind of, you know, economic scale cold fusion going.
+
+53
+00:05:23,800 --> 00:05:29,240
+But that is, you know, you're trading the cost of that for a tremendous amount of like
+
+54
+00:05:29,240 --> 00:05:32,120
+product and technology risks, like your ability to actually see that.
+
+55
+00:05:37,560 --> 00:05:43,080
+And so the third thing is slightly different, but might feel like a related idea.
+
+56
+00:05:45,880 --> 00:05:52,920
+But you should, as a company or as a potential founder or founding team, be able to
+
+57
+00:05:53,160 --> 00:06:01,240
+have some kind of an answer to why are we, why would we be the people to prosecute this idea,
+
+58
+00:06:01,240 --> 00:06:09,400
+right? There are all kinds of things that are good ideas and would be good ideas and could surely
+
+59
+00:06:09,400 --> 00:06:14,840
+make money at scale, but either in the universe of, you know, entrepreneurs that might do it,
+
+60
+00:06:14,840 --> 00:06:20,680
+that have deep industry connections or experience or some kind of unique edge or insight into this
+
+61
+00:06:20,680 --> 00:06:25,160
+marketplace are going to be much more likely to succeed than you. But it also may just be
+
+62
+00:06:25,160 --> 00:06:31,720
+that structurally, you know, there's certain ideas that are better prosecuted by, you know,
+
+63
+00:06:31,720 --> 00:06:37,880
+a larger organization, right? Or that there's some kind of core resource that's going to be
+
+64
+00:06:37,880 --> 00:06:43,480
+very hard for you to replicate to take this idea. And it's kind of an easy check to do, right?
+
+65
+00:06:43,480 --> 00:06:47,720
+Because it's sort of more broadly the idea of founder market fit and that one of the
+
+66
+00:06:48,680 --> 00:06:55,160
+absolute most important indicators of success is an alignment, not only because you as a founder
+
+67
+00:06:55,160 --> 00:07:05,640
+need to have edge, but you would also need to have some emotional equity in the ideas,
+
+68
+00:07:05,640 --> 00:07:08,280
+but you could prosecute it even when things are inevitably
+
+69
+00:07:09,160 --> 00:07:12,120
+become a pretty miserable experience as part of doing so.
+
+70
+00:07:18,680 --> 00:07:28,040
+You might think of this as sort of being related to the customer thing, but I think one of the
+
+71
+00:07:28,040 --> 00:07:34,120
+other really good ones is being super honest with yourself about
+
+72
+00:07:36,920 --> 00:07:43,160
+how you would go to market with this specific idea is really important, right? And there are
+
+73
+00:07:44,120 --> 00:07:48,600
+all kinds of things that are a good idea. You could probably get the product market
+
+74
+00:07:48,600 --> 00:07:54,760
+fit in the sense of making something that people like and ultimately die on the vine of,
+
+75
+00:07:55,720 --> 00:08:02,040
+you know, fighting for awareness and distribution and customer acquisition to the point of maybe
+
+76
+00:08:02,040 --> 00:08:06,360
+having negative economics on everything sold or being unprofitable or just having trouble with
+
+77
+00:08:06,360 --> 00:08:18,920
+scale beyond a certain size. And so this is universally something that affects every business.
+
+78
+00:08:21,640 --> 00:08:27,560
+And we see it all the time, right? Ultimately, distribution is way more important than that.
+
+79
+00:08:28,440 --> 00:08:32,120
+Product quality in a lot of markets is something like Slack, which is
+
+80
+00:08:32,120 --> 00:08:40,920
+maybe a kind of spread, because Teams got dominated by Microsoft Teams because of the
+
+81
+00:08:40,920 --> 00:08:47,320
+unique advantages Microsoft had on distribution. And so that's something to consider. Open AI is
+
+82
+00:08:47,320 --> 00:08:51,880
+the same thing. They've given away a material amount of the equity upside in their business
+
+83
+00:08:51,880 --> 00:08:57,480
+to have this deep partnership with Microsoft solely to take this idea of distribution
+
+84
+00:08:58,440 --> 00:09:05,560
+risk off of the table for them. They said, hey, you know, Microsoft's the most important,
+
+85
+00:09:05,560 --> 00:09:09,000
+probably one of the best partners we could have in terms of their ability to, you know, sell this
+
+86
+00:09:09,000 --> 00:09:14,200
+technology through with, you know, in a high trust way on established vendor relationships with,
+
+87
+00:09:14,200 --> 00:09:20,520
+you know, every corporate and IT department and no market business in the world. In addition to that,
+
+88
+00:09:20,520 --> 00:09:25,320
+they have this very unique capability on the supply side. This partner takes some risk and
+
+89
+00:09:25,560 --> 00:09:31,000
+costs to the cost structure there. And so they've just tied themselves up. You know, in some sense,
+
+90
+00:09:31,000 --> 00:09:37,960
+that's pretty much, you know, operate as a division. Microsoft would be impossible for
+
+91
+00:09:37,960 --> 00:09:45,320
+them to fully merge, due to the regulatory regime, but it's, you know, a very interesting sort of
+
+92
+00:09:45,320 --> 00:09:53,800
+outcome. And so I think one of the other big ideas in choosing an idea or like what makes a good
+
+93
+00:09:53,800 --> 00:10:03,880
+startup idea is testability and sort of the signal richness of the type of business idea
+
+94
+00:10:03,880 --> 00:10:09,160
+are super important. So, you know, certain businesses, you know, think of an extreme,
+
+95
+00:10:09,160 --> 00:10:14,280
+something like, you know, developing a new therapeutic or pharmaceutical type product,
+
+96
+00:10:14,280 --> 00:10:20,280
+you know, are so slow, right? You have this, you know, multi-year kind of R&D effort. You kind of
+
+97
+00:10:20,280 --> 00:10:27,400
+have this multi-year regulatory effort and you have this, then you have your kind of, you know,
+
+98
+00:10:27,400 --> 00:10:32,200
+effort of commercializing, going to market, earning revenue. And so the business is very kind
+
+99
+00:10:32,200 --> 00:10:36,280
+of low amount of signal over time, right? It's kind of hard to tell if you're succeeding or not.
+
+100
+00:10:36,280 --> 00:10:41,160
+Whereas if you go down to the kind of small studio business, you can, you know, there might be
+
+101
+00:10:41,160 --> 00:10:52,680
+something, even if you just think of someone that maybe like buys widgets on, you know,
+
+102
+00:10:52,680 --> 00:10:58,840
+Alibaba.com and resells them as a brand new product on Amazon, it's so easy and quick to
+
+103
+00:10:58,840 --> 00:11:05,240
+get to market in the first place that you can gamify or experiment with this product
+
+104
+00:11:05,240 --> 00:11:10,120
+and really learn a lot, right? You learn what people like, you really can establish a sense
+
+105
+00:11:10,120 --> 00:11:17,800
+of your unit economics so much earlier. And so I don't mean this in the sense of, you know,
+
+106
+00:11:17,800 --> 00:11:21,880
+we want to get to these like micro ideas that aren't going to be really big businesses,
+
+107
+00:11:21,880 --> 00:11:30,200
+but different businesses that might be really big and really good ideas are harder or easier
+
+108
+00:11:30,200 --> 00:11:36,520
+to recombinate into the series of experiments that you need to do to gain traction and to validate
+
+109
+00:11:36,520 --> 00:11:45,560
+them further, right? And so if you're at the idea stage and you're just on the whiteboard
+
+110
+00:11:45,560 --> 00:11:52,040
+doing it, you know, selecting for businesses where you can kind of quickly, sincerely
+
+111
+00:11:53,560 --> 00:12:00,920
+envision how you might prosecute a series of simple experiments to get high, you know,
+
+112
+00:12:00,920 --> 00:12:05,480
+high signal very quickly about the demand for this product to get a really, you know,
+
+113
+00:12:05,480 --> 00:12:09,480
+continuous and strong feedback with about how to shape the product to the high proposition
+
+114
+00:12:09,480 --> 00:12:15,720
+and better meet the payments as clients. That idea at this stage is in some sense more valuable
+
+115
+00:12:16,840 --> 00:12:21,960
+and better than one that, you know, might require your work in product development before you really
+
+116
+00:12:21,960 --> 00:12:27,800
+get meaningful product and feedback from it. And so I think that's an important filter.
+

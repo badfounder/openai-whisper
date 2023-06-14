@@ -1,0 +1,256 @@
+1
+00:00:00,000 --> 00:00:05,020
+Historically, I'd always thought that the pinnacle of a startup journey was product
+
+2
+00:00:05,020 --> 00:00:13,020
+market fit. The idea that you could prove that you have something both that, you know,
+
+3
+00:00:13,020 --> 00:00:18,260
+meets the needs of a job to be done and some amount of people have in society, and that
+
+4
+00:00:18,260 --> 00:00:23,300
+those people are willing to give you a high degree of validation on the usage of it. And
+
+5
+00:00:23,300 --> 00:00:26,980
+generally, I would say that means paying money. That's probably not universally true in the
+
+6
+00:00:26,980 --> 00:00:31,980
+context of consumer and other things. And I used to believe that sort of if you could
+
+7
+00:00:31,980 --> 00:00:37,900
+get product market fit, the rest would sort of work out over time, right? You'd figure
+
+8
+00:00:37,900 --> 00:00:43,180
+out a way to scale your operations and your logistics and those kinds of things over time
+
+9
+00:00:43,180 --> 00:00:48,100
+and have a great business. And what I realize now is that that's not really true. Most just
+
+10
+00:00:48,100 --> 00:00:54,000
+says that do reach product market fit and reach that, you know, fairly material amounts
+
+11
+00:00:54,000 --> 00:00:59,680
+of scale, you know, into the tens and hundreds of millions of dollars you can make. Revenue
+
+12
+00:00:59,680 --> 00:01:06,000
+still don't clear what seems to be a more important hurdle, right, of being great businesses
+
+13
+00:01:06,000 --> 00:01:13,720
+that somehow generate cash in excess of their cost of capital and have some kind of sustaining
+
+14
+00:01:13,720 --> 00:01:19,120
+differentiating advantage. And so that, you know, thinking even of how difficult a company
+
+15
+00:01:19,120 --> 00:01:23,960
+like Slack found it to be at scale where they had, you know, product market fit in
+
+16
+00:01:23,960 --> 00:01:28,560
+the sense of, you know, a 10X better experience than maybe their closest competitor in Microsoft
+
+17
+00:01:28,560 --> 00:01:36,560
+Teams but were so structurally disadvantaged when it comes to distribution versus Microsoft
+
+18
+00:01:36,560 --> 00:01:42,480
+that they really weren't able to, you know, out-earn or outperform as a scale company.
+
+19
+00:01:42,480 --> 00:01:48,840
+And so, you know, their tombstone as an independent company was that effectively selling into
+
+20
+00:01:48,840 --> 00:01:57,600
+a more legitimate distribution engine for their business model. And so what does this
+
+21
+00:01:57,600 --> 00:02:02,560
+mean? It means that, well, you know, product market fit isn't everything, right? There's
+
+22
+00:02:02,560 --> 00:02:10,000
+a second stage of it. And, you know, is it clear who these businesses are that do go
+
+23
+00:02:10,000 --> 00:02:16,640
+on to outperform and become real, you know, cash sharing businesses at scale versus ones
+
+24
+00:02:16,640 --> 00:02:23,200
+that sort of, you know, still grow but maybe languish in terms of being, you know, truly
+
+25
+00:02:23,200 --> 00:02:32,200
+differentiated cash sharing machines? Is that knowable, you know, early on? Is that part
+
+26
+00:02:32,200 --> 00:02:39,000
+of the, you know, misreading of the business model or whatnot that sort of a random walk
+
+27
+00:02:39,000 --> 00:02:44,040
+of, you know, every 10 companies that sort of get to be on like an early product market
+
+28
+00:02:44,040 --> 00:02:50,120
+fit? Do they, you know, break out in the right kind of dream to be constrained by some
+
+29
+00:02:50,120 --> 00:02:55,440
+kinds of gravity? And so I think across all these dimensions, it raises all kinds of interesting
+
+30
+00:02:55,440 --> 00:03:00,560
+questions, right? And so it makes me think a little bit more about what product market
+
+31
+00:03:00,560 --> 00:03:04,880
+fit actually is. And so probably there's not one definition, right? I think most people
+
+32
+00:03:04,880 --> 00:03:12,560
+think about really having something that seems to make sense, seems to have a narrative go
+
+33
+00:03:12,600 --> 00:03:19,360
+to market story around it. And, you know, is easily digestible by the market is something
+
+34
+00:03:19,360 --> 00:03:23,840
+that solves a problem for them, right? Now, we stop the evidence of that was you're able to sell
+
+35
+00:03:23,840 --> 00:03:30,360
+that thing for more than what it costs you to make it. And so that's probably true as early
+
+36
+00:03:30,360 --> 00:03:37,120
+product market fit, right? That may exist as soon as, you know, in an enterprise software company
+
+37
+00:03:37,120 --> 00:03:40,800
+as soon as you sign your first deal, right? And somebody really puts a little bit of career risk
+
+38
+00:03:40,800 --> 00:03:46,360
+and some dollars on the line to use your product, it's pretty high signal validation of it being
+
+39
+00:03:46,360 --> 00:03:51,480
+useful. And there being more of those customers, right? And that signal grows as that, you know,
+
+40
+00:03:51,480 --> 00:03:58,680
+becomes five and 10, you know, in an ecom, it might be an early fail. But what it doesn't give
+
+41
+00:03:58,680 --> 00:04:05,480
+you any signal on how big that market, you know, actually is, or how efficient it's going to be to
+
+42
+00:04:05,480 --> 00:04:16,040
+grow. And so what I postulate is that there's a second phase of product market fit, where you as
+
+43
+00:04:16,040 --> 00:04:22,760
+a company, get your first wave of customers and you get your next wave of customers. And the
+
+44
+00:04:22,760 --> 00:04:33,360
+combination of both meeting a need and being able to explain how you meet that need to the market,
+
+45
+00:04:33,360 --> 00:04:47,680
+but that machine is so effective that you can go to market and achieve returns in some logical way
+
+46
+00:04:47,680 --> 00:04:54,000
+that are in a chest, right? That's cheaper to grow for you than somebody that has some measurable
+
+47
+00:04:54,000 --> 00:05:00,680
+degree of lack of product ownership. And that would feel intuitive to me as an idea.
+
+48
+00:05:00,680 --> 00:05:12,040
+And so how do you start to think about that, right? Is it a better product? Or is it, you know,
+
+49
+00:05:12,040 --> 00:05:17,280
+a better selection in other parts of your business model and business strategy that you have a
+
+50
+00:05:17,280 --> 00:05:23,600
+better insight on how distribution or pricing should work in this category and changed in a
+
+51
+00:05:23,600 --> 00:05:28,560
+way that allows you to grow, right? Have you just been more diligent on your internal engine that,
+
+52
+00:05:29,440 --> 00:05:34,240
+you know, is operating more efficiently and thus you just do acquire customers more cheaply because
+
+53
+00:05:34,240 --> 00:05:38,080
+you have a little bit less waste in the system, right? And you've invested more smartly in your
+
+54
+00:05:38,080 --> 00:05:46,840
+automation and things like that. Was it, you know, related to how big or how nascent that market is,
+
+55
+00:05:46,840 --> 00:05:51,960
+right? To have true like high efficiency growth product market fit generally implies like a
+
+56
+00:05:51,960 --> 00:05:56,280
+rapidly growing or rapidly emerging market that happens to be a lot of, but it's still quite
+
+57
+00:05:56,280 --> 00:06:03,200
+a greenfield, right? And it only later shows itself to be large, kind of unknowable. And so
+
+58
+00:06:03,200 --> 00:06:09,920
+these things are interesting, right? What, you know, what's the perfect definition of the first
+
+59
+00:06:09,920 --> 00:06:15,120
+product market fit? What's the right definition of this like kind of, you know, efficient growth
+
+60
+00:06:15,120 --> 00:06:22,320
+product market fit? What are the signals that this is going to be a sustaining outlook turner
+
+61
+00:06:22,320 --> 00:06:28,880
+long term that, you know, it's a business that kind of can break free of the forces of gravity.
+
+62
+00:06:28,880 --> 00:06:35,480
+How are we identifying that in advance? And when does the business have to design for that? Is that
+
+63
+00:06:35,480 --> 00:06:40,280
+on day one, you know, when you're ideating? You know, much later as you've kind of perved out
+
+64
+00:06:40,280 --> 00:06:45,920
+these different milestones on product market fit. And that's something I'm curious about.
+

@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:01,920
+And I'm just gonna say way more stuff now
+
+2
+00:00:01,920 --> 00:00:02,920
+and see how you do,
+
+3
+00:00:02,920 --> 00:00:04,960
+because we're learning about chemistry today
+
+4
+00:00:04,960 --> 00:00:08,160
+and we're playing around with real-time transcription models
+
+5
+00:00:08,160 --> 00:00:10,320
+and all kinds of stuff.
+
+6
+00:00:11,200 --> 00:00:12,040
+Love.
+

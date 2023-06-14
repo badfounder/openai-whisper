@@ -1,0 +1,64 @@
+Historically, I'd always thought that the pinnacle of a startup journey was product
+market fit. The idea that you could prove that you have something both that, you know,
+meets the needs of a job to be done and some amount of people have in society, and that
+those people are willing to give you a high degree of validation on the usage of it. And
+generally, I would say that means paying money. That's probably not universally true in the
+context of consumer and other things. And I used to believe that sort of if you could
+get product market fit, the rest would sort of work out over time, right? You'd figure
+out a way to scale your operations and your logistics and those kinds of things over time
+and have a great business. And what I realize now is that that's not really true. Most just
+says that do reach product market fit and reach that, you know, fairly material amounts
+of scale, you know, into the tens and hundreds of millions of dollars you can make. Revenue
+still don't clear what seems to be a more important hurdle, right, of being great businesses
+that somehow generate cash in excess of their cost of capital and have some kind of sustaining
+differentiating advantage. And so that, you know, thinking even of how difficult a company
+like Slack found it to be at scale where they had, you know, product market fit in
+the sense of, you know, a 10X better experience than maybe their closest competitor in Microsoft
+Teams but were so structurally disadvantaged when it comes to distribution versus Microsoft
+that they really weren't able to, you know, out-earn or outperform as a scale company.
+And so, you know, their tombstone as an independent company was that effectively selling into
+a more legitimate distribution engine for their business model. And so what does this
+mean? It means that, well, you know, product market fit isn't everything, right? There's
+a second stage of it. And, you know, is it clear who these businesses are that do go
+on to outperform and become real, you know, cash sharing businesses at scale versus ones
+that sort of, you know, still grow but maybe languish in terms of being, you know, truly
+differentiated cash sharing machines? Is that knowable, you know, early on? Is that part
+of the, you know, misreading of the business model or whatnot that sort of a random walk
+of, you know, every 10 companies that sort of get to be on like an early product market
+fit? Do they, you know, break out in the right kind of dream to be constrained by some
+kinds of gravity? And so I think across all these dimensions, it raises all kinds of interesting
+questions, right? And so it makes me think a little bit more about what product market
+fit actually is. And so probably there's not one definition, right? I think most people
+think about really having something that seems to make sense, seems to have a narrative go
+to market story around it. And, you know, is easily digestible by the market is something
+that solves a problem for them, right? Now, we stop the evidence of that was you're able to sell
+that thing for more than what it costs you to make it. And so that's probably true as early
+product market fit, right? That may exist as soon as, you know, in an enterprise software company
+as soon as you sign your first deal, right? And somebody really puts a little bit of career risk
+and some dollars on the line to use your product, it's pretty high signal validation of it being
+useful. And there being more of those customers, right? And that signal grows as that, you know,
+becomes five and 10, you know, in an ecom, it might be an early fail. But what it doesn't give
+you any signal on how big that market, you know, actually is, or how efficient it's going to be to
+grow. And so what I postulate is that there's a second phase of product market fit, where you as
+a company, get your first wave of customers and you get your next wave of customers. And the
+combination of both meeting a need and being able to explain how you meet that need to the market,
+but that machine is so effective that you can go to market and achieve returns in some logical way
+that are in a chest, right? That's cheaper to grow for you than somebody that has some measurable
+degree of lack of product ownership. And that would feel intuitive to me as an idea.
+And so how do you start to think about that, right? Is it a better product? Or is it, you know,
+a better selection in other parts of your business model and business strategy that you have a
+better insight on how distribution or pricing should work in this category and changed in a
+way that allows you to grow, right? Have you just been more diligent on your internal engine that,
+you know, is operating more efficiently and thus you just do acquire customers more cheaply because
+you have a little bit less waste in the system, right? And you've invested more smartly in your
+automation and things like that. Was it, you know, related to how big or how nascent that market is,
+right? To have true like high efficiency growth product market fit generally implies like a
+rapidly growing or rapidly emerging market that happens to be a lot of, but it's still quite
+a greenfield, right? And it only later shows itself to be large, kind of unknowable. And so
+these things are interesting, right? What, you know, what's the perfect definition of the first
+product market fit? What's the right definition of this like kind of, you know, efficient growth
+product market fit? What are the signals that this is going to be a sustaining outlook turner
+long term that, you know, it's a business that kind of can break free of the forces of gravity.
+How are we identifying that in advance? And when does the business have to design for that? Is that
+on day one, you know, when you're ideating? You know, much later as you've kind of perved out
+these different milestones on product market fit. And that's something I'm curious about.
