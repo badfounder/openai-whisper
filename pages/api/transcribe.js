@@ -33,6 +33,12 @@ apiRoute.post((req, res) => {
     const outputDir = serverRuntimeConfig.PROJECT_ROOT + '/public/uploads'
 
     let sCommand = `whisper './${filename}' --model ${options.model} --language ${options.language} --task ${options.task} --output_dir '${outputDir}'`
+
+    console.log('Options:', options);
+console.log('Filename:', filename);
+console.log('Command:', sCommand);
+console.log('stderr:', stderr);
+
     
     exec(sCommand, (err, stdout, stderr) => {
         if (err) {
